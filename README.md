@@ -1,4 +1,4 @@
-# ReadRater# ReadRater - PDF Readability Analyzer
+# ReadRater- PDF Readability Analyzer
 
 ReadRater is a web application that analyzes the readability and writing quality of PDF documents. It provides detailed feedback on sentence structure, passive voice usage, filler words, and overall readability scores.
 
